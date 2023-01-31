@@ -8,7 +8,7 @@
 
     @vite('resources/js/app.js')
 </head>
-<body>
+<body class="my-bdy">
 
     {{-- header --}}
 

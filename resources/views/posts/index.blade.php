@@ -3,8 +3,8 @@
 @section('title','Lista post/HOME')
 
 @section('content')
-<h1 class="text-black">lista post/HOME</h1>
-<table class="table">
+<h1 class="">Lista post/HOME</h1>
+<table class="table my-whit">
     <thead>
       <tr>
         <th>Id</th>
